@@ -1,4 +1,4 @@
-# MEE42201-Mechanical-Vibrations
+# MEE42201 Mechanical Vibrations 2018
 
 ### University of Khartoum, Mechanical Engineering Department, Faculty of Engineering.
 -  Rami M. Ahmed  (145041)
