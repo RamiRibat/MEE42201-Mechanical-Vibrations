@@ -6,8 +6,8 @@ using python and results been discussed.
 
 ### Longitudinal Dynamics
 
-<img src="https://github.com/RamiSketcher/MEE42201-Mechanical-Vibrations/tree/master/Coursework-Tasks/Task-1/Photos/HCMLong.png" height="200" />
+<img src="https://github.com/RamiSketcher/MEE42201-Mechanical-Vibrations/blob/master/Coursework-Tasks/Task-1/Photos/HCMLong.png" height="200" />
 
 ### Lateral Dynmaics
 
-<img src="https://github.com/RamiSketcher/MEE42201-Mechanical-Vibrations/tree/master/Coursework-Tasks/Task-1/Photos/HCMLat.png" height="200" />
+<img src="https://github.com/RamiSketcher/MEE42201-Mechanical-Vibrations/blob/master/Coursework-Tasks/Task-1/Photos/HCMLat.png" height="200" />
